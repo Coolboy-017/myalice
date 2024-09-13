@@ -22,6 +22,7 @@ Create automated tests for the following scenarios using Selenium:
 3. Manga Details Modal
 
 Test Scenarios
+
             Login Functionality
 Scenario: Verify that the login functionality works correctly.
 Steps:
