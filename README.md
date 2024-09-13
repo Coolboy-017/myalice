@@ -22,7 +22,7 @@ Create automated tests for the following scenarios using Selenium:
 3. Manga Details Modal
 
 Test Scenarios
-1. Login Functionality
+            Login Functionality
 Scenario: Verify that the login functionality works correctly.
 Steps:
 1. Open the application.
@@ -31,7 +31,7 @@ Steps:
 4. Click the "Login" button.
 5. Verify that the user is redirected to the manga search page.
 
-2. Manga Search and Display
+               Manga Search and Display
 Scenario: Verify that searching for manga returns the correct results.
 Steps:
 1. Ensure the user is on the manga search page.
@@ -50,7 +50,7 @@ displayed.
 12. Click the "Search" button.
 13. Verify that a "No manga found" message is displayed.
 
-3. Manga Details Modal
+              Manga Details Modal
 Scenario: Verify that the modal displays the correct manga details.
 Steps:
 1. Ensure the user is on the manga search page.
